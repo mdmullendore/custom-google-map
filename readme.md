@@ -17,4 +17,4 @@ How To Use
 - add map-canvas id
 
 
-
+see screenshot at: https://github.com/mdmullendore/custom-google-map/blob/master/screenshot.png
